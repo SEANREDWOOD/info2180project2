@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 var sec;
 var bspac;
 var aspac;
